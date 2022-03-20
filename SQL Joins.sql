@@ -1,5 +1,5 @@
 -- use the below given link to download dataset and save it in your Microsoft SQL Server management Studio
--- Navigation C:\Program Files\Microsoft SQL Server\MSSQL\Backup
+-- Navigation to save the database: C:\Program Files\Microsoft SQL Server\MSSQL\Backup
 https://drive.google.com/file/d/1IeLToHDEfcrcTj9yA1lsE1OvgX9da5kt/view?usp=sharing
 
 use Human_Resources (-- used to select the database) 
